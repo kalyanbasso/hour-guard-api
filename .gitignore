@@ -33,3 +33,10 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+
+# environment variables
+.env
+
+# I use this file to test simple endpoints
+request.http
